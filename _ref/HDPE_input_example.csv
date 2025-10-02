@@ -1,0 +1,6 @@
+Polymer,Paper,ReportedRangesJSON,Basis,Comments
+HDPE,Abbas et al. 2022,"[{""low"":1,""high"":6,""pct"":41},{""low"":6,""high"":12,""pct"":22},{""low"":13,""high"":21,""pct"":18},{""low"":22,""high"":40,""pct"":19}]",liquid area%,Edit to real numbers
+HDPE,Ahmad et al. 2015,"[{""low"":6,""high"":12,""pct"":32.56},{""low"":13,""high"":16,""pct"":30.80},{""low"":17,""high"":20,""pct"":14.19},{""low"":21,""high"":30,""pct"":12.35},{""low"":31,""high"":40,""pct"":10.95}]",liquid area%,Edit to real numbers
+HDPE,Das et al. 2018,"[{""low"":6,""high"":11,""pct"":12.32},{""low"":12,""high"":20,""pct"":76.38},{""low"":21,""high"":32,""pct"":11.3}]",liquid area%,Replace with exact values
+HDPE,Wang et al. 2023,"[{""low"":6,""high"":12,""pct"":45.09},{""low"":13,""high"":20,""pct"":37},{""low"":21,""high"":40,""pct"":17}]",liquid area%,Edit to real numbers
+HDPE,Zeb et al. 2025,"[{""low"":5,""high"":7,""pct"":5.9},{""low"":8,""high"":10,""pct"":13.9},{""low"":11,""high"":13,""pct"":12.9},{""low"":14,""high"":16,""pct"":13.8},{""low"":17,""high"":19,""pct"":13.2},{""low"":20,""high"":22,""pct"":11.3},{""low"":23,""high"":40,""pct"":22.8}]",liquid area%,Edit to real numbers
